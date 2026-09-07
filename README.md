@@ -98,7 +98,7 @@ pip install torch pygame matplotlib seaborn numpy pandas
 ---
 
 DATA : 
-Game: 1 | Score: 0 | Best: 0 | Epsilon: 0.99
+Game: 1 | Score: 0 | Best: 0 | Epsilon: 0.99\n
 Game: 2 | Score: 0 | Best: 0 | Epsilon: 0.98
 Game: 3 | Score: 1 | Best: 1 | Epsilon: 0.97
 Game: 4 | Score: 0 | Best: 1 | Epsilon: 0.96
@@ -432,6 +432,13 @@ Game: 331 | Score: 6 | Best: 41 | Epsilon: 0.04
 Game: 332 | Score: 6 | Best: 41 | Epsilon: 0.04
 Game: 333 | Score: 3 | Best: 41 | Epsilon: 0.04
 Game: 334 | Score: 16 | Best: 41 | Epsilon: 0.03
+
+BEFORE :
+<img width="1251" height="705" alt="Screenshot 2026-09-07 213332" src="https://github.com/user-attachments/assets/db9cc868-3ce3-4aea-bfcc-1fa2154f8bfa" />
+<img width="646" height="513" alt="Screenshot 2026-09-07 213351" src="https://github.com/user-attachments/assets/1417e636-82dd-45ef-8e02-9ce1f8536a36" />
+
+AFTER :
+<img width="637" height="513" alt="Screenshot 2026-09-07 232843" src="https://github.com/user-attachments/assets/b37e41b6-e5fc-4cea-8a2c-2a4af73db2d2" />
 
 <img width="1242" height="711" alt="Screenshot 2026-09-07 232931" src="https://github.com/user-attachments/assets/50a169a8-e4a2-4f9c-852b-2f2e30ca92cf" />
 
